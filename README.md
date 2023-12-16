@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Aiswarya Uday</h1>
+<h1 align="center">Hi 👋, I'm Aiswarya</h1>
 <h3 align="center">A passionate developer from Trivandrum,India</h3>
 
-- 🔭 I’m currently working on **personal portfolio**
+- 📈 I’m currently working on **personal portfolio**
 
-- 🌱 I’m currently learning **figma**
+- 🏖 I’m currently learning **figma**
 
-- 📫 How to reach me **aiswaryauday.2003@gmail.com**
+- 💌 How to reach me **aiswaryauday.2003@gmail.com**
 
-- ⚡ Fun fact **I can finish 4 burgers at a time**
+- 🍔 Fun fact **I can finish 4 burgers at a time**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
