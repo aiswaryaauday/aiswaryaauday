@@ -7,7 +7,6 @@
 
 - 💌 How to reach me **aiswaryauday.2003@gmail.com**
 
-- 🍔 Fun fact **I can finish 4 burgers at a time**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
