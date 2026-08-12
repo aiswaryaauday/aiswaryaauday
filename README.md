@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aiswarya</h1>
 <h3 align="center">A passionate developer from Trivandrum,India</h3>
 
-- 🌴 I’m currently working on **personal portfolio**
-
-- 🌻 I’m currently learning **figma**
-
 - 💌 How to reach me **aiswaryauday.2003@gmail.com**
 
 
